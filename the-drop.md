@@ -44,11 +44,11 @@ More fighters can be recruited at a later date. See [Recruiting](recruiting.md)
 DFC has two tokens. An NFT \(non-fungible token\) and a fungible token.   
 The NFT is your actual fighter. The fungible token will act as in-game currency that's needed to interact with your fighter and other fighters.   
   
-**NFT**  
+**NFT - ERC-721**  
 **Token Name**: Digital Fight Club  
 **Token Symbol**: $DFC  
   
-**In-game Currency  
+**In-game Currency - ERC-20  
 Token Name:** Digital Fight Coin  
 **Token Symbol**: $TKO
 
