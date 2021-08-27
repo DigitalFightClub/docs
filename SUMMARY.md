@@ -10,6 +10,6 @@
 * [Styles](styles-in-progress.md)
 * [Training & Sparring](training-and-sparring.md)
 * [Recruiting](recruiting.md)
-* [$DFC](usddfc-in-progress.md)
+* [$TKO](usddfc-in-progress.md)
 * [Extra Goodies](extra-goodies.md)
 

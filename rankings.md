@@ -28,7 +28,9 @@ The DFC is split up across multiple **Organizations** and each one of these orga
 | :--- | :--- |
 | DFC | Legendary |
 | Apex Fight League | Great |
-| Placeholder 3 | Good |
-| Placeholder 4 | Solid |
+| Professional Fighting Circuit  | Good |
+| Proving Grounds | Solid |
 | The Pits | Poor |
+
+
 
