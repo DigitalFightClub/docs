@@ -7,14 +7,23 @@ If you're new to the NFT space - welcome! If you're not, then you've certainly s
 * Max 10 fighters per transaction
 * Instant reveal
 
-_Need a lot more detail here, talk about actual drop mechanics \(Swezey stuff\) and $DNC tokens._
-
 ## What token standard are we using?
 
-We will be utilizing the latest and great. [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155)  
-This enables the DFC metaverse gas efficient transactions when interacting with your NFT Fighters \($DFC\) and your $DNC balances. 
+We will be utilizing the latest and greatest: [`ERC-1155`](https://eips.ethereum.org/EIPS/eip-1155)  
+This enables users, within the DFC metaverse,  gas efficient transactions when interacting with your NFT Fighters \($DFC\) and your $DNC balances.   
+  
+Our NFT Fighters will be designed to be [`ERC-721`](https://eips.ethereum.org/EIPS/eip-721) backward compatible. 
 
 ## What network is DFC launching on?
 
-DFC is targeting the Polygon \(matic\) network. 
+DFC will be launching on the [Polygon](https://polygon.technology/) \(Matic\) network for "The Drop" \(minting\) and all other DFC metaverse interactions: training, fighting, wearables, and recruiting.
+
+We are considering launching on Ethereum's mainnet as well. Stay tuned for more details.  
+This will be bridged via Polygon's [`PoS Bridge`](https://docs.matic.network/docs/develop/ethereum-matic/pos/getting-started/).  
+
+## OpenSea?
+
+Yes, your NFT fighters will be fully compatible with [`OpenSea's marketplace`](https://opensea.io/). 
+
+
 
