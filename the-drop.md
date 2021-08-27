@@ -10,7 +10,7 @@ If you're new to the NFT space - welcome! If you're not, then you've certainly s
 ## What token standards are we using?
 
 We will be utilizing the latest and greatest: [`ERC-1155`](https://eips.ethereum.org/EIPS/eip-1155)  
-This enables users, within the DFC metaverse,  gas efficient transactions when interacting with your NFT Fighters \($DFC\) and your $DNC balances.   
+This enables users, within the DFC metaverse,  gas efficient transactions when interacting with your NFT Fighters \($DFC\) and your $TKO balances.   
   
 Our NFT Fighters will be designed to be [`ERC-721`](https://eips.ethereum.org/EIPS/eip-721) backward compatible. 
 
@@ -34,6 +34,19 @@ Yes, your NFT fighters will be fully compatible with [`OpenSea's marketplace`](h
 "The Drop" will be priced at 0.05 ETH per fighter.   
 9,999 NFT Fighters capped at the initial drop sale.   
 More fighters can be recruited at a later date. See [Recruiting](recruiting.md)
+
+## $DFC? $TKO?
+
+DFC has two tokens. An NFT \(non-fungible token\) and a fungible token.   
+The NFT is your actual fighter. The fungible token will act as in-game currency that's needed to interact with your fighter and other fighters.   
+  
+**NFT**  
+**Token Name**: Digital Fight Club  
+**Token Symbol**: $DFC  
+  
+**In-game Currency  
+Token Name:** Digital Fight Coin  
+**Token Symbol**: $TKO
 
 
 
