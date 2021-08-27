@@ -9,7 +9,7 @@ If you're new to the NFT space - welcome! If you're not, then you've certainly s
 
 ## The Pre Game
 
-The DFC Team is pre-minting the first 100.
+The DFC Team is pre-minting the first 100 for promotions and giveaways.
 
 ## What token standards are we using?
 
