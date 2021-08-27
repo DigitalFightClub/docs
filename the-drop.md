@@ -7,6 +7,10 @@ If you're new to the NFT space - welcome! If you're not, then you've certainly s
 * Max 10 fighters per transaction
 * Instant reveal
 
+## The Pre Game
+
+The DFC Team is pre-minting the first 100.
+
 ## What token standards are we using?
 
 We will be utilizing the latest and greatest: [`ERC-1155`](https://eips.ethereum.org/EIPS/eip-1155)  
@@ -47,6 +51,8 @@ The NFT is your actual fighter. The fungible token will act as in-game currency 
 **In-game Currency  
 Token Name:** Digital Fight Coin  
 **Token Symbol**: $TKO
+
+
 
 
 
