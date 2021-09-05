@@ -20,7 +20,7 @@ The 24 unique Styles add a strategy element to the game. Study your opponents st
 | Tasmanian Whirlwind | Maintain a breakneck grappling pace that will exhaust your opponent. Let's hope you don't get tired first. |
 | Go On & Slam | You're bigger, you're stronger and you're going to slam your opponent senseless. |
 | Top Game Tapout | Go for the tap out. Take your opponent to the ground where your transition and submission skills are devastating. |
-| Ground & Pound | Bring your opponent to the mat, keep him there, and unleash a vicious assault of fists. |
+| Ground & Pound | Bring your opponent to the mat, keep them there, and unleash a vicious assault of fists. |
 | MMA Specialist | You're a balanced fighter and can utilize different styles as needed. However, you're a master of none. |
 | Choose Your Destiny | You've got the option for powerful kicks or find the perfect defensive submission from the ground. |
 | Sprawl & Brawl | Dodge the opponents takedown and get the upper hand. Finish them off with standing strikes. Is that Chuck Liddell? |
