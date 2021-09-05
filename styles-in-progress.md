@@ -23,7 +23,7 @@ The 24 unique Styles add a strategy element to the game. Study your opponents st
 | Ground & Pound | Bring your opponent to the mat, keep them there, and unleash a vicious assault of fists. |
 | MMA Specialist | You're a balanced fighter and can utilize different styles as needed. However, you're a master of none. |
 | Choose Your Destiny | You've got the option for powerful kicks or find the perfect defensive submission from the ground. |
-| Sprawl & Brawl | Dodge the opponents takedown and get the upper hand. Finish them off with standing strikes. Is that Chuck Liddell? |
+| Sprawl & Brawl | Dodge your opponents takedown and get the upper hand. Finish them off with standing strikes. Is that Chuck Liddell? |
 | Contact Overload | You're twice as deadly when every limb is twice as dangerous. Overload on contact by using your knees and elbows. |
 | Go Low | Knock the tree down by aggressively attacking the hips, knees & ankles. |
 | Swagger Strike | Use your cocky swagger to bait your opponent into an attack. Strike hard and fast when they do. |
