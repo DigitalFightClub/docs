@@ -2,6 +2,7 @@
 
 * [Digital Fight Club](README.md)
 * [The Drop](the-drop.md)
+* [Mint Guide](mint-guide.md)
 * [The Fighters](the-fighters.md)
 * [Puncher's Chance Promise](punchers-chance-promise.md)
 * [Rankings](rankings.md)
@@ -12,4 +13,3 @@
 * [Recruiting](recruiting.md)
 * [$TKO](usddfc-in-progress.md)
 * [Extra Goodies](extra-goodies.md)
-
