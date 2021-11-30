@@ -1,5 +1,5 @@
 ---
-description: Drop day is coming! November 30, 2021 @ 8pm EST
+description: Drop day is coming! December 1, 2021 @ 8pm EST
 ---
 
 # The Drop
@@ -53,7 +53,7 @@ The NFT is your actual fighter. The fungible token will act as in-game currency 
 **Token Symbol**: $DFC\
 \
 **In-game Currency - ERC-20**\
-**Token Name: **Digital Fight Coin\
+**Token Name:** Digital Fight Coin\
 **Token Symbol**: $TKO
 
 
