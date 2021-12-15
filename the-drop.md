@@ -1,5 +1,5 @@
 ---
-description: Drop day is coming! December 1, 2021 @ 8pm EST
+description: Mint is live!
 ---
 
 # The Drop
