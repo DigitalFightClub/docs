@@ -4,19 +4,14 @@ description: >-
   visit digitalfightclub.io
 ---
 
-# Digital Fight Club
+# 👊 Digital Fight Club
 
-Welcome to the Digital Fight Club \(DFC\). Unlike another popular fight club you may have heard of - you are very much allowed to talk about the DFC \(we actually encourage it\).
+Welcome to the Digital Fight Club (DFC) - our mission is to build the #1 P2E strategy game.&#x20;
 
-Our mission is to give you the keys to your very own MMA gym. Allowing you to recruit, train, and fight with your fighters to win real money.
+We're giving you the keys to your very own MMA Gym - allowing you to [**Train**](training-and-sparring.md), **** [**Spar**](training-and-sparring.md), [**Recruit**](recruiting.md) and [**Fight**](fighting.md) **for ETH**.
 
-Initially, the DFC will be a text-based strategy fighting game. You will not have any specific control over your fighter once the fight starts. It's your job to put your fighter in the best position through training, sparring, style & opponent selection. Once that is set, it's up to your fighter to finish the job.
+It's your job to put your Fighters in the best position through training, sparring, style & opponent selection. Once that is set, it's up to your Fighter to finish the job (with some help from our fight algorithm). _You will not have any specific control over your Fighter once the fight starts._&#x20;
 
-You will have the ability to enter your fighters into bouts \(some free, some paid\) to **earn real ETH**.
+While initially the DFC will be a text-based game - our endgame is to have an arena in {insert your favorite metaverse} where everyone can come watch their Fighters match up "live."
 
-This will be a constant work in progress as we look to continually deliver new features/mechanics to make the DFC as real as possible.
-
-Our endgame is to have an arena in {insert your favorite metaverse} where everyone can come watch their fighters match up "live."
-
-![](.gitbook/assets/upwork_matthewcallahan_2d_fighter_5x_scale_newer_fighters_1_3.png)
-
+![](.gitbook/assets/upwork\_matthewcallahan\_2d\_fighter\_5x\_scale\_newer\_fighters\_1\_3.png)
