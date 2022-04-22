@@ -6,7 +6,7 @@ description: >-
 
 # 🤜 Fighting
 
-Fighting is the primary mechanic in the DFC - what's the point in studying the [**Style**](styles-in-progress.md) **** matchups and all that [**Training & Sparring**](training-and-sparring.md) if you don't get to put your Fighters to the test?\
+Fighting is the primary mechanic in the DFC - what's the point in studying the [**Style**](styles.md) **** matchups and all that [**Training & Sparring**](training-and-sparring.md) if you don't get to put your Fighters to the test?\
 \
 First you'll need to pick a Fighter to send into the octagon from your [**Gym**](gym.md) **** page.&#x20;
 

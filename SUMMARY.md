@@ -12,7 +12,7 @@
 * [🪙 $TKO](usddfc-in-progress.md)
 * [👴 Retirement](retirement.md)
 * [🥇 Rankings](rankings.md)
-* [🎯 Styles](styles-in-progress.md)
+* [🎯 Styles](styles.md)
 * [🏋♂ Training & Sparring](training-and-sparring.md)
 * [🩸 Recruiting](recruiting.md)
 * [🧑💻 The Team](the-team.md)
