@@ -6,7 +6,7 @@ description: '"If I can change and you can change, everybody can change." - Rock
 
 ## Training
 
-Queue the Rocky training montage, it's time for your fighter to put in some work. Training is a separate mechanic that allows you to spend [**$TKO**](usddfc-in-progress.md) for a chance to upgrade a selected [**Trait**](the-fighters/traits.md)**.**
+Queue the Rocky training montage, it's time for your fighter to put in some work. Training is a separate mechanic that allows you to spend [**$TKO**](tko.md) for a chance to upgrade a selected [**Trait**](the-fighters/traits.md)**.**
 
 {% hint style="warning" %}
 The current Training cost is set at 5 $TKO with a 4 hour cooldown (you can only train once every 4 hours). The cost and CD period may change as we further model the DFC ecosystem
@@ -20,7 +20,7 @@ All things being held equal - it will be easier to improve a "weaker" trait than
 
 ## **Sparring**
 
-Similar to Training, Sparring is an opportunity to improve your fighter. The main difference in Sparring is that you choose another Fighter in your Gym for some quality time. Use your [**$TKO**](usddfc-in-progress.md) **** tokens to initiate a sparring session between two fighters for a chance to upgrade a [**Skill**](the-fighters/skills.md).
+Similar to Training, Sparring is an opportunity to improve your fighter. The main difference in Sparring is that you choose another Fighter in your Gym for some quality time. Use your [**$TKO**](tko.md) **** tokens to initiate a sparring session between two fighters for a chance to upgrade a [**Skill**](the-fighters/skills.md).
 
 Sparring is the _only_ way to increase a particular fighters [**Skill**](the-fighters/skills.md). Choose a sparring partner wisely! If a sparring partner has a higher skill level on the skill you're trying to focus on the chance of your fighter progressing is greatly improved.
 

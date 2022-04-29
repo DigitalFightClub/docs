@@ -13,7 +13,7 @@ __\
 __While we understand people may not like having their Fighters retire - there is still a ton of utility to be had with retired Fighters:
 
 * [**Recruiting**](recruiting.md)****
-* They still generate **** [**$TKO**](usddfc-in-progress.md)****
+* They still generate **** [**$TKO**](tko.md)****
 * Can still be used as [**Sparring**](training-and-sparring.md) partners
 * Loaned out with [**Contracts**](extra-goodies/contracts.md)****
 * Still fight in [**Tournaments**](extra-goodies/tournaments.md) & [**Duels**](extra-goodies/duels.md)****

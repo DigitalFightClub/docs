@@ -9,7 +9,7 @@
   * [🥋 Skills](the-fighters/skills.md)
 * [🤜 Fighting](fighting.md)
 * [🥊 Puncher's Chance Promise](punchers-chance-promise.md)
-* [🪙 $TKO](usddfc-in-progress.md)
+* [🪙 $TKO](tko.md)
 * [👴 Retirement](retirement.md)
 * [🥇 Rankings](rankings.md)
 * [🎯 Styles](styles.md)

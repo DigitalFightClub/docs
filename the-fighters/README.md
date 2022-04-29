@@ -6,7 +6,7 @@ description: '"Everybody has a plan until they get punched in the mouth." - Mike
 
 There are 9,999 genesis Fighters that will begin the Digital Fight Club. These will **only be minted directly** from our site - [Digital Fight Club](https://digitalfightclub.io).  After that, all secondary sales will take place on [approved marketplaces](../the-drop.md#current-marketplaces).
 
-When you mint a Fighter, they will automatically be assigned [**Traits**](traits.md) & [**Skills**](skills.md)**.** Some of these you'll be able to improve, some of these will be locked. Minting a genesis Fighter will also give you 100 [**$TKO**](../usddfc-in-progress.md) tokens per Fighter which will be used in [**Training** & **Sparring**](../training-and-sparring.md)**.**
+When you mint a Fighter, they will automatically be assigned [**Traits**](traits.md) & [**Skills**](skills.md)**.** Some of these you'll be able to improve, some of these will be locked. Minting a genesis Fighter will also give you 100 [**$TKO**](../tko.md) tokens per Fighter which will be used in [**Training** & **Sparring**](../training-and-sparring.md)**.**
 
 ****[**Traits**](traits.md), [**Skills**](skills.md) and [**Styles**](../styles.md) all work together for each fight. A basic example, if a fighter has relatively low Reflex (trait), Power (trait), and Kickboxing (skill) we wouldn't recommend selecting a [**Style**](../styles.md) along the lines of {Counter Strike}. Not to say it's impossible for a Fighter to win going down this path, but a lot has to break in their favor.
 

@@ -20,7 +20,7 @@ From this page you can challenge Fighters from other Gyms (or accept a challenge
 
 ![With 24 different styles to choose from - which gives you the best chance to win?](<.gitbook/assets/Style Selection.png>)
 
-Once the opposing Fighter's Gym owner accepts the challenge (or if you're accepting a challenge sent your way) _"ITS TIIIIIIIIIME"_ (queue Bruce Buffer). Both Fighter's Traits, Skills, and Style selection enter as inputs into our proprietary Fight Algorithm to determine a winner. Fighter records and [**Rankings**](rankings.md) are subsequently updated and if any ETH/[**$TKO**](usddfc-in-progress.md) **** was on the line it gets awarded to the winner. We'll give round outputs so you can see how your Fighter stacked up.&#x20;
+Once the opposing Fighter's Gym owner accepts the challenge (or if you're accepting a challenge sent your way) _"ITS TIIIIIIIIIME"_ (queue Bruce Buffer). Both Fighter's Traits, Skills, and Style selection enter as inputs into our proprietary Fight Algorithm to determine a winner. Fighter records and [**Rankings**](rankings.md) are subsequently updated and if any ETH/[**$TKO**](tko.md) **** was on the line it gets awarded to the winner. We'll give round outputs so you can see how your Fighter stacked up.&#x20;
 
 {% hint style="info" %}
 The Digital Fight Club is beginning as a _**text-based**_ strategy game. You will not see your Fighters fight (at least not yet).
