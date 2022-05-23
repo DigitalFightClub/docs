@@ -22,6 +22,6 @@
   * [⚔ Duels](extra-goodies/duels.md)
   * [🛍 Wearables](extra-goodies/wearables.md)
   * [🪖 Wounded Warrior Project](extra-goodies/wounded-warrior-project.md)
-* [Official Site](https://digitalfightclub.io)
+* [Official Site](https://digitalfightclub.io/)
 * [Twitter](https://twitter.com/dfc\_nft)
 * [Discord](https://discord.gg/nBKSGkeHbP)
