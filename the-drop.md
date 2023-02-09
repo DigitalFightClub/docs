@@ -1,5 +1,5 @@
 ---
-description: Mint is live!
+description: Next 1500 Fighters dropping soon!
 ---
 
 # 💧 The Drop
@@ -32,7 +32,7 @@ Our NFT Fighters will be designed to be [`ERC-721`](https://eips.ethereum.org/EI
 
 ## What network is DFC launching on?
 
-DFC will be launching and building on the [Polygon](https://polygon.technology) (Matic) network.\
+DFC will be launching and building on the [Polygon](https://polygon.technology/) (Matic) network.\
 This will be bridged via Polygon's [`PoS Bridge`](https://docs.matic.network/docs/develop/ethereum-matic/pos/getting-started/). &#x20;
 
 ## Current marketplaces? <a href="#marketplaces" id="marketplaces"></a>
@@ -42,7 +42,7 @@ This will be bridged via Polygon's [`PoS Bridge`](https://docs.matic.network/doc
 
 ## Wallet?
 
-Our site is optimized to run with [`MetaMask`](https://metamask.io)``
+Our site is optimized to run with [`MetaMask`](https://metamask.io/)``
 
 {% hint style="warning" %}
 The DFC Team is minting the first 100 for promotions and giveaways.
